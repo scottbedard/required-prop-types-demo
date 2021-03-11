@@ -1,5 +1,7 @@
 # required-prop-types-demo
 
+https://github.com/vuejs/composition-api/issues/654
+
 ## Project setup
 ```
 npm run install
